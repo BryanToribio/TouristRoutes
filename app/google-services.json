@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "284503781902",
-    "project_id": "touristroutes-eddf6",
-    "storage_bucket": "touristroutes-eddf6.appspot.com"
+    "project_number": "738669946975",
+    "project_id": "tourismroutesucsm",
+    "storage_bucket": "tourismroutesucsm.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:284503781902:android:87e4b53c8a6e9874fcc25f",
+        "mobilesdk_app_id": "1:738669946975:android:29551632ad6bdd88add3ea",
         "android_client_info": {
-          "package_name": "com.android.application"
+          "package_name": "com.example.touristroutes"
         }
       },
       "oauth_client": [
         {
-          "client_id": "284503781902-tbce1dqhbrnj5qi6v14uu86vvmr5ped3.apps.googleusercontent.com",
+          "client_id": "738669946975-2k2vjgjjbmj8e78o4tevbe892ap7qovv.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCuEDzP-nkEQJj3NQoyr_t7R_wm0V7Nr20"
+          "current_key": "AIzaSyC6K76DCSRCS5-butG8IcV5nnxdVJvGjtA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "284503781902-tbce1dqhbrnj5qi6v14uu86vvmr5ped3.apps.googleusercontent.com",
+              "client_id": "738669946975-2k2vjgjjbmj8e78o4tevbe892ap7qovv.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
