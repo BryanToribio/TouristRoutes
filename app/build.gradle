@@ -7,12 +7,12 @@ apply plugin: 'com.google.gms.google-services'
 
 android {
     compileSdkVersion 31
-    buildToolsVersion '31.0.0'
+    buildToolsVersion '30.0.3'
 
     defaultConfig {
         applicationId "com.example.touristroutes"
-        minSdkVersion 16
-        targetSdkVersion 31
+        minSdkVersion 19
+        targetSdkVersion defaultTargetSdkVersion1
         versionCode 1
         versionName "1.0"
 
